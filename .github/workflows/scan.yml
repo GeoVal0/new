@@ -10,7 +10,7 @@ on:
           required: true
           # default: 'ghcr.io/ethan42/sbom-sca-scanner:latest'
           # default: 'ghcr.io/mcp/openbnb-airbnb:latest'
-          default: 'mcp/signatures:sha256-5b88188afe70cf26c7a144d232ce07f490a16bfe0c8089ae3c2dca8a0dd18d4c.sig'
+          default: 'mcp/wikipedia-mcp:latest'
 
 # env:
 #   REGISTRY: ghcr.io
