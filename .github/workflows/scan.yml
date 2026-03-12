@@ -10,7 +10,7 @@ on:
           required: true
           # default: 'ghcr.io/ethan42/sbom-sca-scanner:latest'
           # default: 'ghcr.io/mcp/openbnb-airbnb:latest'
-          default: 'mcp/pulumi:latest'
+          default: 'mcp/jetbrains:latest'
 
 # env:
 #   REGISTRY: ghcr.io
