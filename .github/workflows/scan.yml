@@ -9,7 +9,8 @@ on:
           description: 'The Docker image to scan'
           required: true
           # default: 'ghcr.io/ethan42/sbom-sca-scanner:latest'
-          default: 'ghcr.io/mcp/openbnb-airbnb:latest'
+          # default: 'ghcr.io/mcp/openbnb-airbnb:latest'
+          default: 'mcp/apify-mcp-server:latest'
 
 # env:
 #   REGISTRY: ghcr.io
